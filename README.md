@@ -77,7 +77,7 @@ OpenCV-Project/
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/Areej56/your-opencv-repo.git
+git clone https://github.com/Areej56/open_cv
 cd your-opencv-repo
 
 
